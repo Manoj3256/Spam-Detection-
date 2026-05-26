@@ -130,8 +130,7 @@ The project includes a grouped bar chart comparing Precision vs Recall across al
 
 ## References
 
-- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow — Aurelien Geron
-
+- Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow
 ---
 
 ## Author
